@@ -1,2 +1,2 @@
-# Odin-Training-
+# Odin-Training
 Learning Web-Dev with Odin Project
